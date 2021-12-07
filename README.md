@@ -1,5 +1,7 @@
 # Flask-and-Mysql
 
+How to fix Mysql problem in linux
+
 ```
 sudo apt install libmysqlclient-dev   
 sudo apt install libmariadb-dev-compat
